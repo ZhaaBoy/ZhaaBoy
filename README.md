@@ -4,7 +4,7 @@
 
 ### Website Developer | PHP (Laravel) & React.js
 
-Saya membangun aplikasi web yang terstruktur, cepat, mudah dikembangkan, dan relevan dengan kebutuhan bisnis.
+I build structured, fast, maintainable web applications that align with business needs.
 
 </div>
 
@@ -12,25 +12,25 @@ Saya membangun aplikasi web yang terstruktur, cepat, mudah dikembangkan, dan rel
 
 ## About Me
 
-Saya adalah **Web Developer** yang berfokus pada pengembangan aplikasi berbasis **PHP**, terutama menggunakan framework **Laravel**, serta **React.js** untuk membangun antarmuka yang interaktif dan responsif.
+I am a **Web Developer** focused on building applications with **PHP**, especially using the **Laravel** framework, and **React.js** to create interactive and responsive interfaces.
 
-Saya senang mempelajari teknologi baru, menerapkan arsitektur aplikasi modern, dan membangun sistem yang mengutamakan **performa, skalabilitas, keamanan, kemudahan pemeliharaan, serta pengalaman pengguna**.
+I enjoy learning new technologies, applying modern application architecture, and building systems that prioritize **performance, scalability, security, maintainability, and user experience**.
 
-Saya memiliki pengalaman mengerjakan berbagai proyek akademis, freelance, dan perusahaan, termasuk pengembangan sistem berbasis web, integrasi **REST API**, pengelolaan basis data, autentikasi dan otorisasi, serta implementasi proses bisnis sesuai kebutuhan pengguna.
+I have experience working on academic, freelance, and company projects, including web-based system development, **REST API** integration, database management, authentication and authorization, and business process implementation based on user needs.
 
 ## Currently Focusing On
 
-- Pengembangan web application tingkat lanjut, seperti **Point of Sale (POS)** dan **Software as a Service (SaaS)**
-- **State management** dan arsitektur aplikasi yang terstruktur serta mudah dikembangkan
-- Optimalisasi performa aplikasi, database, dan proses backend
-- Penerapan **clean code**, design pattern, testing, dan development best practices
+- Advanced web application development, such as **Point of Sale (POS)** and **Software as a Service (SaaS)**
+- **State management** and structured, maintainable application architecture
+- Optimizing application performance, databases, and backend processes
+- Applying **clean code**, design patterns, testing, and development best practices
 
 ## Experience Highlights
 
-- **Web Developer** untuk proyek akademis, freelance, dan perusahaan
-- Pemateri kelas tambahan **Web Development** di universitas
-- Mengembangkan aplikasi berdasarkan kebutuhan operasional dan proses bisnis
-- Mengintegrasikan aplikasi dengan REST API dan layanan pihak ketiga
+- **Web Developer** for academic, freelance, and company projects
+- Facilitated supplementary **Web Development** classes at university
+- Developed applications based on operational needs and business processes
+- Integrated applications with REST APIs and third-party services
 
 ## Tech Stack
 
