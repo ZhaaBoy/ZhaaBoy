@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hifzha 'Ilman 👋
+# HI, I'm Hifzha 'Ilman 👋
 
 ### Website Developer | PHP (Laravel) & React.js
 
